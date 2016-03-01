@@ -46,3 +46,7 @@
     padding-left: 30px;
     font-weight: 700;
   }
+  #white {
+    color: white;
+    border-bottom: 1px dotted white;
+  }
