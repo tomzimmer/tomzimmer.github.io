@@ -269,4 +269,9 @@ hr.style-quote2 {
 @media only screen and (max-width: 400px) { 
 		.heading-text, h2 { font-size: 36px; }
 		.text p, .text-style { font-size: 16px; }
+		.devices img {
+			height: 250px;
+			width: auto;
+		}
+		.devices { max-width: 250px; margin: auto; min-height: 320px;}
 }
