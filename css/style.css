@@ -265,6 +265,9 @@ hr.style-quote2 {
 		#device2 { display: none !important; }
 		#device1 { content: url('../img/devices_mobile.png')}
 }
+@media only screen and (max-width: 550px) {
+		.heading-text, h2 { font-size: 42px; }
+}
 
 @media only screen and (max-width: 400px) { 
 		.heading-text, h2 { font-size: 36px; }
@@ -274,4 +277,10 @@ hr.style-quote2 {
 			width: auto;
 		}
 		.devices { max-width: 250px; margin: auto; min-height: 320px;}
+}
+@media only screen and (max-height: 500px) { 
+		.heading-text, h2 { font-size: 50px; }
+}
+@media only screen and (max-height: 400px) { 
+		.heading-text, h2 { font-size: 36px; }
 }
