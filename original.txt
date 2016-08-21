@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Meta tags: -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Tom Zimmer is a professional freelance front-end web developer based in Melbourne Australia. He builds modern, responsive websites for customers anywhere in the world." />
+	<meta name="keywords" content="freelance, developer, melbourne, frontend, coder, responsive, modern, australia " />
+	<meta name="author" content="metatags generator">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="7 days">
+	<!-- frontend freelance melbourne -->
+	<title>Tom Zimmer: Front End Developer</title>
+	<style type="text/css">
+	html, body {
+		width: 100%;
+		height: 100%;
+		padding-bottom: 0;
+	}
+	body {
+		background-color: #13a79f;
+		font-family:  'futura-pt', sans-serif;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		font-size: 65.2%;
+		color: #fff;
+		height: 10%;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	.text {
+		width: 90%;
+		height: 600px;
+		margin: 0;
+		margin: auto;
+		margin-top: 10%;
+		padding: 0;
+
+	}
+	a:link, a:hover, a:active, a:visited {
+		color: #fff;
+		text-decoration: underline;
+	}
+	.text {
+		text-align: center;
+	}
+	h1 {
+		font-size: 7.4em;
+	}
+	h2 {
+		font-size: 4em;
+	}
+	hr {
+		width: 50%;
+		display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 2px solid #fff;
+	    margin: auto;
+	    padding: 0; 
+	}
+	img {
+		width: 100px;
+		height: auto;
+	}
+
+	@media only screen and (max-width: 1100px) {
+		body {
+			font-size: 50%;
+			padding-top: 50px;
+		}
+		img {width: 80px;}
+	}
+
+	@media only screen and (max-width: 800px) {
+		body {
+			font-size: 30%;
+			padding-top: 100px;
+		}
+		img {width: 50px;}
+	}
+
+	@media only screen and (max-width: 550px) {
+		body {
+			font-size: 25%;
+		}
+	}
+
+	</style>
+
+</head>
+
+<body>
+
+<div class="text">
+	<h1>Tom Zimmer<br>Front End Web Developer</h1>
+	<hr>
+	<h2>New Website Coming Soon</h2>
+	<br><img src="img/icon.png">
+	<br><h2><a href = "mailto:thoFgni1ftemzijA#A#ppksfSil1fteEn96Gm" 
+   				onclick = "this.href=this.href
+				.replace(/Fgni1fte/,'maswillia')
+              	.replace(/jA#A#ppksfS/,'mmer&#64gma')
+              	.replace(/1fteEn96G/,'&#46co')">tom@tomzimmer.com</a></h2>
+</div>  			
+
+<!-- Typekit -->
+<script src="https://use.typekit.net/owx6luj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+</body>
+</html>
